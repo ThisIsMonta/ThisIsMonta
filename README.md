@@ -1,7 +1,7 @@
-Hi 👋 My name is Monta Sghaier
+Hi 😎 My name is Monta Sghaier
 ==============================
 
-Mobile & Game developer
+Mobile & Game developer 📱🎮
 -----------------------
 
 I am an ambitious person, I work hard to achieve my dreams by working hard, Richard J. Dumbrill once said "don't follow your dreams chase them", and our role is to chase our dreams.
@@ -61,13 +61,13 @@ I am an ambitious person, I work hard to achieve my dreams by working hard, Rich
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ThisIsMonta"><img src="https://github-readme-stats.vercel.app/api?username=ThisIsMonta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ThisIsMonta's GitHub stats" /></a>
+<a href="http://www.github.com/ThisIsMonta"><img src="https://github-readme-stats.vercel.app/api?username=ThisIsMonta&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="ThisIsMonta's GitHub stats" /></a>
 
-<a href="http://www.github.com/ThisIsMonta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMonta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ThisIsMonta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsMonta&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ThisIsMonta"><img src="https://activity-graph.herokuapp.com/graph?username=ThisIsMonta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ThisIsMonta"><img src="https://activity-graph.herokuapp.com/graph?username=ThisIsMonta&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ThisIsMonta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsMonta&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ThisIsMonta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsMonta&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
