@@ -1,7 +1,7 @@
 Hi 😎 My name is Monta Sghaier
 ==============================
 
-Mobile & Game developer 📱🎮
+Web, Mobile & Game developer 📱🎮
 -----------------------
 
 I am an ambitious person, I work hard to achieve my dreams by working hard, Richard J. Dumbrill once said "don't follow your dreams chase them", and our role is to chase our dreams.
